@@ -1,14 +1,16 @@
 {
   "add-alt-text": {
-    "zh": "添加 ALT 文本",
-    "es": "Agregar texto Alt",
+    "zh": "添加 Alt 文本",
+    "es": "Agregar Texto Alt",
     "en": "Add Alt Text",
-    "hi": "ALT टेक्स्ट जोड़ें",
-    "ar": "أضف نص ALT",
-    "pt": "Adicionar texto ALT",
+    "hi": "Alt टेक्स्ट जोड़ें",
+    "ar": "أضف نص Alt",
+    "pt": "Adicionar Texto Alt",
     "bn": "ALT টেক্সট যোগ করুন",
-    "ru": "Добавить текст ALT",
-    "jp": "ALT テキストを追加する",
-    "pa": "ALT ਟੈਕਸਟ ਸ਼ਾਮਲ ਕਰੋ"
+    "ru": "Добавить текст Alt",
+    "jp": "Alt テキストを追加する",
+    "pa": "Alt ਟੈਕਸਟ ਸ਼ਾਮਲ ਕਰੋ",
+    "ur": "Alt متن شامل کریں۔",
+    "fr": "Ajouter du Texte Alt"
   }
 }
