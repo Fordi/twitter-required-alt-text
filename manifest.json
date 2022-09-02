@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter Required Alt Text",
+  "version": "1.2",
+  "icons": {
+    "72":  "icons/icon-72x72.png",
+    "96":  "icons/icon-96x96.png",
+    "128": "icons/icon-128x128.png",
+    "512": "icons/icon-512x512.png"
+  },
+  "description": "Small extension that will force you to add alt text to images when tweeting",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.twitter.com/*",
+        "http://*.twitter.com/*"
+      ],
+      "js": [
+        "extension.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "src/index.js",
+    "src/i18n.json",
+    "src/i18n.js",
+    "src/debounce.js",
+    "src/uid.js"
+  ]
+}
