@@ -24,7 +24,7 @@ This is my Chrome-compatible adaptation of the above, with the following changes
 
 ### Firefox
 
-* Get the latest release zip for Firefox from [here](https://github.comcast.com/Xfinity/rally-quality-of-life/releases/latest) and unzip somewhere stable.  You can also clone this repo.
+* Get the latest release zip for Firefox from [here](https://github.com/Fordi/twitter-required-alt-text/releases/latest) and unzip somewhere stable.  You can also clone this repo.
 * In Firefox, browse to `about:debugging`
 * Click "This Firefox"
 * Click "Load Temprary Add-on"
